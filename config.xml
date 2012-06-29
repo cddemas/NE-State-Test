@@ -29,7 +29,7 @@
 	<icon src="icons/ic_launcher_android_72.png"  />
 		
 	<preference name="orientation" value="default" />
-	<preference name="target-device" value="universal" />
+	<preference name="target-device" value="handset" />
 	
 	<feature name="http://plugins.phonegap.com/ChildBrowser/2.0.0" /> 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
